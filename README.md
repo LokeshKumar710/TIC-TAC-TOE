@@ -8,7 +8,7 @@
    <br>
     Begin by cloning the repository to your local machine. Open your terminal and execute the following command:  
     ```sh
-    git clone https://github.com/LokeshKumar710/Password-Generator.git
+    git clone https://github.com/LokeshKumar710/TIC-TAC-TOE.git
     ```
 
 3. **Install Go Live Server Extension:**
